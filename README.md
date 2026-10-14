@@ -15,4 +15,4 @@ Python · PyTorch · Spark · Flink · LLM · Agent
 - [learning-log](https://github.com/StephenXiong001/learning-log)
 
 ## 找到我
-- 掘金：你的掘金主页链接
+- 掘金：[掘金链接](https://juejin.cn/user/939446083266400)
