@@ -1,6 +1,0 @@
-{
-  "meta": {
-    "title": "Task mode switch",
-    "description": "Pick the Agent preset (mode) a task runs from the composer toolbar — including a task that already started — or let AUTO pick one from the task text."
-  }
-}
