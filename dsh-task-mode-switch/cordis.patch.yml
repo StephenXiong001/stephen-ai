@@ -1,0 +1,13 @@
+# The task-mode-switch bundle: one row that mounts the Host half and its browser half.
+#
+# Host half (`index.js`): registers the `/mode` human command — which re-composes
+# a live task through the Agent-preset registry, including a task that has already
+# started — and asks the Agent loop for a request-series restart on the first
+# admitted step after such a switch, so the new tool catalog reaches the model as
+# the series baseline instead of a pile of deferred additions.
+#
+# Browser half (`client.js`): registers the mode control into the composer tool row
+# (`conversation.input.left`) and drives everything through shipped Remotes.
+- insert:
+    - id: task-mode-switch
+      name: 'dsh-task-mode-switch'
