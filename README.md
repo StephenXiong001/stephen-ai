@@ -4,7 +4,7 @@ DeepSeek Harness (`dsh`) plugins by [StephenXiong001](https://github.com/Stephen
 
 | Plugin | What it does |
 |---|---|
-| [dsh-task-mode-switch](dsh-task-mode-switch) | Switch a task's Agent preset (mode) from the composer toolbar — including tasks that have already started — plus AUTO, which picks one from the task text. |
+| [dsh-task-mode-switch](dsh-task-mode-switch) | Switch a task's Agent preset (mode) from the composer toolbar, including tasks that have already started, plus AUTO, which picks one from the task text. |
 
 ## Install
 
@@ -22,4 +22,4 @@ See that plugin's README for usage, caveats and verification status.
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT. See [LICENSE](LICENSE).
